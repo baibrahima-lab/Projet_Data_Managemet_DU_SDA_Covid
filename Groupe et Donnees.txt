@@ -1,0 +1,11 @@
+PROJET DATA MANAGEMENT & VISUALISATION - SDA 2025
+
+Membres du groupe :
+1. Ibrahima Bâ
+2. Mahamat Sultan Mahamat Nour
+3. Moustapha Mendy
+
+Jeu de données utilisé :
+Source : Our World in Data (OWID) - COVID-19
+Lien : https://github.com/owid/covid-19-data/tree/master/public/data
+Fichier : owid-covid-data.csv
