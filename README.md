@@ -10,8 +10,7 @@
 
 ### 👥 Équipe
 - Ibrahima Bâ
-- Mahamat Sultan  
-- Moustapha Mendy
+- Mahamat Sultan 
 
 ---
 
